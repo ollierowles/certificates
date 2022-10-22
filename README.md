@@ -6,4 +6,4 @@
 
 <br />
 
-![Scrimba Front End Developer Career Path](https://github.com/ollierowles/certificates/blob/main/images/scrimba_developer_career_path.png?raw=true)
+![Scrimba Front End Developer Career Path](https://github.com/ollierowles/certificates/blob/main/images/scrimba_front_end_developer_career_path.png?raw=true)
